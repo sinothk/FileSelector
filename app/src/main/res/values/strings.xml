@@ -1,3 +1,7 @@
-<resources>
-    <string name="app_name">FileSelectorLib</string>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">文件浏览</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment" tools:ignore="ExtraTranslation">Fragment</string>
 </resources>
